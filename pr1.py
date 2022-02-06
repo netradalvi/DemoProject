@@ -1,0 +1,11 @@
+print("enter name");
+nm=input();
+print("enter post");
+post=input();
+print("enter salary");
+sal=input();
+bonus=sal*40/100;
+tot=sal+bonus;
+print("Bonus amt=",bonus);
+print("total amt=",tot);
+print("finish program....");
